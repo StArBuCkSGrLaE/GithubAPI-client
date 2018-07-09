@@ -1,0 +1,26 @@
+{
+  "name": "GithubAPI-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Main.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bootstrap": "^4.1.1",
+    "vue": "^2.5.16"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StArBuCkSGrLaE/GithubAPI-client.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StArBuCkSGrLaE/GithubAPI-client/issues"
+  },
+  "homepage": "https://github.com/StArBuCkSGrLaE/GithubAPI-client#readme"
+}
